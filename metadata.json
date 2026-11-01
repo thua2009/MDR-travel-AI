@@ -1,0 +1,6 @@
+{
+  "name": "MDR Travel AI",
+  "description": "Intelligent AI Travel Agent for Da Nang, Vietnam with dual-persona mode, dynamic weather re-routing, and anti-tourist-trap menu scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
